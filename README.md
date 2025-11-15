@@ -1,1 +1,1 @@
-This repository include Oskar Sharma's C programming projects. 
+This repository includes Oskar Sharma's C-programming projects. 
