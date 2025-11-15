@@ -5,14 +5,11 @@ The companion decompressor reverses the process and reconstructs the exact origi
 
 Features include:
 Nibble-level I/O subsystem implementing custom read/write operations (nibbler.c, nibbler.h)
-
-Compression utility that encodes text using a compact, MacWrite-style variable-length scheme
-  
+Compression utility that encodes text using a compact, MacWrite-style variable-length scheme 
 Decompression utility that restores files back to their original byte stream
-
 Error-handled CLI tools for compress infile -o outfile and decompress infile -o outfile
-
 Comprehensive unit tests verifying nibble operations and end-to-end correctness
 
 This project demonstrates low-level data representation, bitwise manipulation, file-I/O abstraction, and the design of a lightweight compression format.
+
 
